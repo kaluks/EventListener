@@ -1,0 +1,48 @@
+* {
+	box-sizing: border-box;
+}
+
+body,html {
+  margin:auto; 
+  background-color:#FFFFF2;
+}
+#myButton {
+  font-size:50px;
+  width:200px;
+  height:200px;
+  border-radius:50%;
+  background-color:#EEF3E2;
+  margin-left: 15%;
+}
+
+#button2 {
+  font-size:20px;
+  width:150px;
+  height:150px;
+  border-radius:80%;
+  background-color: lightblue;
+  margin-left: 70%;
+  margin-top: 15%;
+}
+
+#button3 {
+  font-size:15px;
+  font-style: italic;
+  width:300px;
+  height:40px;
+
+  background-color: #FEEED4;
+  margin-left: 30%;
+  margin-top: 20%;
+}
+
+#button4 {
+  font-size:15px;
+  font-style: italic;
+  width:500px;
+  height:70px;
+
+  background-color: #FEE4F9;
+  margin-left: 30%;
+  margin-top: 20%;
+}
